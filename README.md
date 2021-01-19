@@ -1,8 +1,5 @@
 ### Here is What I'm Working on! 👋
 
-<!--
-**iamlaboniraz/iamlaboniraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... CNC Gropu, Bnagladesh Office
@@ -14,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... https://www.linkedin.com/in/tahiya-jahan-laboni/
 - 😄 Pronouns: ... She/Her
--->
+

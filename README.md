@@ -4,10 +4,8 @@ This is Tahiya Jahan Laboni. I'm from Dhaka,Bangladesh. I am a Programmer. I fin
 
 - 🔭 I’m currently working on ... CNC Group, Bnagladesh Office
 - 🌱 I’m currently learning ... React, Machine Learning
-- 👯 Skill Set -- Habituate with : Python, C, Java, PHP, Data structure & algorithm, HTML/CSS, Bootstrap, JavaScript, React, DBMS (Oracle, SQLite, MySQL, PostgreSQL), GraphQL 
--                 Operating systems : Windows, Linux, Git 
--                 Framework : Django, Kivy (Mobile Apps) 
--                 HackerRank Profile : https://www.hackerrank.com/iamlaboniraz?hr_r=1
+- 👯 Good Knowledge -- Python, Java , Data structure & algorithm, HTML/CSS, Bootstrap, JavaScript, React, DBMS(Oracle, SQLite, MySQL, PostgreSQL), GraphQL, Django, 
+Kivy (Mobile Apps)
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... https://www.linkedin.com/in/tahiya-jahan-laboni/
 - 😄 Pronouns: ... She/Her

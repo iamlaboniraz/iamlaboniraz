@@ -4,7 +4,7 @@ This is Tahiya Jahan Laboni. I'm from Dhaka,Bangladesh. I am a Programmer. I fin
 
 - 🔭 I’m currently working on ... CNC Group, Bnagladesh Office
 - 🌱 I’m currently learning ... React, Machine Learning
-- 👯 Good Knowledge -- Python, Java , Data structure & algorithm, HTML/CSS, Bootstrap, JavaScript, React, Node DBMS(Oracle, SQLite, MySQL, PostgreSQL), GraphQL, Django, 
+- 👯 Good Knowledge -- Python, Java , Data structure & algorithm, HTML/CSS, Bootstrap, JavaScript, React, NodeIs, DBMS(Oracle, SQLite, MySQL, PostgreSQL, MongoDB), GraphQL, Django, 
 Kivy (Mobile Apps)
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... https://www.linkedin.com/in/tahiya-jahan-laboni/

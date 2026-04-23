@@ -11,7 +11,7 @@ Experienced Python Programmer with skills in Python, Django, React, Node.js, dat
 
 - 🤝 I’m looking for help with **Advanced ML, model deployment, and data science career opportunities**
 
-- 💬 Ask me about **Ask me about Python, machine learning, data analysis, Django, and analytics projects**
+- 💬 **Ask me about Python, machine learning, data analysis, Django, and analytics projects**
 
 - 📫 How to reach me: ... https://www.linkedin.com/in/tahiya-jahan-laboni/
 - 😄 Pronouns: ... She/Her

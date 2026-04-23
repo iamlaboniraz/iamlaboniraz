@@ -13,14 +13,14 @@ Experienced Python Programmer with skills in Python, Django, React, Node.js, dat
 
 - 💬 **Ask me about Python, machine learning, data analysis, Django, and analytics projects**
 
-- 📫 How to reach me: ... https://www.linkedin.com/in/tahiya-jahan-laboni/
+- 📫 How to reach me: ... iamlaboniraz@gmail.com
 - 😄 Pronouns: ... She/Her
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Xe1f3V_raiJIM72DHQtNL_xhcUCw0Uut/view?usp=sharing](https://drive.google.com/file/d/1Xe1f3V_raiJIM72DHQtNL_xhcUCw0Uut/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy turning messy real-world data into clear business insights**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/tahiya-jahan-laboni/</h3>
 <p align="left">
 </p>
 

@@ -37,6 +37,13 @@ Django, REST APIs, HTML, CSS, Bootstrap, JavaScript
 
 ## Featured Projects
 
+| Project | Focus | Tools |
+|---|---|---|
+| Financial Sentiment Classification | NLP, Text Mining, Tweet Classification | Python, NLTK, Scikit-learn, Transformers |
+| Customer Segmentation & Data Mining | Clustering, Customer Analytics, Business Strategy | Python, Pandas, Scikit-learn, K-Means |
+| Deep Learning Image Classification | Computer Vision, CNN, Image Classification | Python, TensorFlow/Keras or PyTorch, Matplotlib |
+| Claim Injury Classification | Multiclass Classification, Predictive Modeling | Python, Scikit-learn, XGBoost |
+| E-Courier Platform | Web Development, Backend Engineering | Django, PostgreSQL, JavaScript |
 ### Customer Segmentation & Data Mining — Food Delivery Platform
 
 Analyzed a large-scale real-world food delivery dataset with **31K users and 50+ features** to identify meaningful customer segments and support data-driven marketing strategies.
@@ -51,14 +58,7 @@ Analyzed a large-scale real-world food delivery dataset with **31K users and 50+
 
 **Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 **Focus Areas:** Customer Segmentation, Data Mining, Clustering, Business Analytics
-## Featured Projects
 
-| Project | Focus | Tools |
-|---|---|---|
-| Financial Sentiment Classification | NLP, Text Mining, Tweet Classification | Python, NLTK, Scikit-learn, Transformers |
-| Customer Segmentation | Clustering, Data Mining, Business Analytics | Python, Pandas, K-Means, Hierarchical Clustering |
-| Claim Injury Classification | Multiclass Classification | Python, XGBoost, Scikit-learn |
-| E-Courier Platform | Web Development, Backend | Django, PostgreSQL, JavaScript |
 ---
 
 ### Workers’ Compensation Claim Classification

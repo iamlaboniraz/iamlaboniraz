@@ -51,7 +51,14 @@ Analyzed a large-scale real-world food delivery dataset with **31K users and 50+
 
 **Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 **Focus Areas:** Customer Segmentation, Data Mining, Clustering, Business Analytics
+## Featured Projects
 
+| Project | Focus | Tools |
+|---|---|---|
+| Financial Sentiment Classification | NLP, Text Mining, Tweet Classification | Python, NLTK, Scikit-learn, Transformers |
+| Customer Segmentation | Clustering, Data Mining, Business Analytics | Python, Pandas, K-Means, Hierarchical Clustering |
+| Claim Injury Classification | Multiclass Classification | Python, XGBoost, Scikit-learn |
+| E-Courier Platform | Web Development, Backend | Django, PostgreSQL, JavaScript |
 ---
 
 ### Workers’ Compensation Claim Classification

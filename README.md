@@ -85,14 +85,20 @@ Developed a courier management platform for the Ready-Made Garments sector, incl
 ---
 
 ## Current Focus
+I am currently focusing on my MSc **Text Mining** project at NOVA IMS, where I am developing an NLP pipeline for **financial market sentiment classification** from tweets.
 
-I am currently improving my portfolio with well-documented machine learning and data mining projects, including:
+The project aims to classify each tweet into one of three sentiment categories: **Bearish**, **Bullish**, or **Neutral**. My work involves building an end-to-end text mining workflow that includes corpus exploration, text preprocessing, feature engineering, classification modeling, and performance evaluation.
 
-- Clean project structures
-- Reproducible notebooks
-- Clear README documentation
-- Model evaluation results
-- Business interpretation of machine learning outputs
+My current focus includes:
+
+- Exploring and analyzing tweet corpora using visual and statistical text analysis techniques.
+- Building robust text preprocessing pipelines with techniques such as stopword removal, regular expressions, tokenization, lemmatization, and stemming.
+- Comparing multiple feature representation methods, including **Bag-of-Words**, **Word2Vec**, and **Transformer-based encoders**.
+- Training and evaluating several classification models, including traditional machine learning models and neural approaches.
+- Using evaluation metrics such as **precision, recall, accuracy, and F1-score** to compare model performance.
+- Exploring advanced NLP workflows, including **decoder-based classification** and agentic AI approaches for model selection, classifier comparison, and automated evaluation.
+
+Alongside this project, I am also strengthening my knowledge of **Deep Learning, LLM pipelines, and Computational Intelligence**, including optimization techniques such as hill climbing, simulated annealing, genetic algorithms, gradient-based optimization, and particle swarm optimization.
 
 ---
 
